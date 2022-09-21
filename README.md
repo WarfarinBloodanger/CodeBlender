@@ -3,13 +3,20 @@ A blender to blend your code into soup
 
 Current declaration are only provided in Chinese. No English versions are provided.
 
-In no case will we be reliable to the meaning if the declaration was translated into other languages.
+In no case will we be reliable to the stability of meaning of declaration if it was translated into other languages.
+
+定义：
+
+- 本程序：指 CodeBlender 及其一切衍生程序产品，包括但不限于源代码、二进制文件、各类数据文件等；
+- 开发者：指对 CodeBlender 的开发提供过实际支持，包括但不限于提供源代码、二进制文件、各类数据文件等的个体。
 
 当您在使用本程序的时候，默认：
 1. 您知晓且同意本程序并非用于商业用途的混淆。本程序不提供也无法提供具有商业级的反混淆难度的混淆功能。
 2. 您知晓且同意本程序仅供学习交流使用。开发者不对因使用本程序造成的任何侵权等事件负责。
 3. 您知晓且同意，开发者不对因在对代码著作权有要求（包括但不限于各 OJ）上使用本程序抄袭他人程序导致的封号等直接或间接的一切形式的损失承担责任。
 4. 本代码遵循 GNU 3.0 开源协议。本声明目前没有英文版本。
+5. 开发者保留一切解释权。
+
 
 在某些时刻可能需要把一些小 cpp 代码混淆起来，CodeBlender 便是为此设计。
 
